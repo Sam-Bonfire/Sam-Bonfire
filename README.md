@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://prathamesh.yomite.in"><img src="https://img.shields.io/badge/portfolio-live-58A6FF?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/prathameshpathak"><img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://topmate.io/pathak_prathamesh"><img src="https://img.shields.io/badge/topmate-mentoring-FF7139?style=for-the-badge" alt="Topmate" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Sam-Bonfire&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://prathamesh.yomite.in" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/portfolio-live-58A6FF?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/prathameshpathak" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://topmate.io/pathak_prathamesh" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/topmate-mentoring-FF7139?style=for-the-badge" alt="Topmate" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Sam-Bonfire&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 Engineer turned PM building AI-native products. MBA from IIM Lucknow. I write about PM craft and ship small tools to learn in public.
