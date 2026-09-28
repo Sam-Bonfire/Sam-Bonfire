@@ -1,26 +1,36 @@
 # Hi, I am Prathamesh Pathak
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=480&lines=Engineer+turned+PM;Rust+%2B+Tauri+%2B+Svelte+builder;0-to-1+AI+products+and+tools" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <a href="https://prathamesh.yomite.in"><img src="https://img.shields.io/badge/portfolio-live-58A6FF?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/prathameshpathak"><img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://topmate.io/pathak_prathamesh"><img src="https://img.shields.io/badge/topmate-mentoring-FF7139?style=for-the-badge" alt="Topmate" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Sam-Bonfire&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 Engineer turned PM building AI-native products. MBA from IIM Lucknow. I write about PM craft and ship small tools to learn in public.
 
-Portfolio: [prathamesh.yomite.in](https://prathamesh.yomite.in) · LinkedIn: [prathameshpathak](https://linkedin.com/in/prathameshpathak) · Mentoring: [topmate.io/pathak_prathamesh](https://topmate.io/pathak_prathamesh)
+## Stack I reach for
 
-![Profile views](https://komarev.com/ghpvc/?username=Sam-Bonfire&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,tauri,svelte,ts,react,astro,tailwind,py,nodejs,playwright,postgres&theme=dark" alt="Stack icons" />
+</p>
 
-## What I do now
+`Rust` `Tauri` `Svelte` `TypeScript` `Astro` `React` `Tailwind CSS` `Python` `Node.js` `Playwright` `PostgreSQL`
 
-I build 0-to-1 products, from quick-commerce storefronts to AI coding environments and agent tooling for sales, support and ops.
-I focus on scope to launch, evals, and iteration after release.
+Most new builds start as `Rust` plus `Tauri` plus `Svelte`. Older builds use `Astro` plus `React` plus `TypeScript`.
 
-## What I ship on the side
+## What I ship
 
 All builds are live and maintained. Each one links to a case study on my site.
 
-- [Calculators Hub](https://calculators.yomite.in) is a free PWA with 27 calculators for freelance pay, FIRE, housing and career moves. It needs no login and installs on mobile.
-- [StyleSwipe](https://styleswipe.yomite.in) is swipe based fashion discovery with a cross-retailer saved list. It ships with property tests and ten Playwright flows.
-- [Kestrel](https://kestrel.yomite.in) is a self-hosted mail and calendar suite with a keyboard driven interface. It is in development at v0.3.3 and provider integrations run as sandboxed WASM plugins.
-- [This site and theme](https://prathamesh.yomite.in) is an Astro static portfolio. It carries case studies, essays and free PM resources.
-
-Case studies live at [prathamesh.yomite.in/portfolio](https://prathamesh.yomite.in/portfolio/).
+- [Calculators Hub](https://calculators.yomite.in) is a free PWA with 27 calculators for freelance pay, FIRE, housing and career moves. It needs no login and installs on mobile. [![Live](https://img.shields.io/badge/live-calculators.yomite.in-brightgreen)](https://calculators.yomite.in) [![Case study](https://img.shields.io/badge/case_study-portfolio-blue)](https://prathamesh.yomite.in/portfolio/calculators-hub/)
+- [StyleSwipe](https://styleswipe.yomite.in) is swipe based fashion discovery with a cross-retailer saved list. It ships with property tests and ten Playwright flows. [![Live](https://img.shields.io/badge/live-styleswipe.yomite.in-brightgreen)](https://styleswipe.yomite.in) [![Case study](https://img.shields.io/badge/case_study-portfolio-blue)](https://prathamesh.yomite.in/portfolio/styleswipe/)
+- [Kestrel](https://kestrel.yomite.in) is a self-hosted mail and calendar suite with a keyboard driven interface. It is in development at v0.3.3 and provider integrations run as sandboxed WASM plugins. [![Live](https://img.shields.io/badge/live-kestrel.yomite.in-brightgreen)](https://kestrel.yomite.in) [![Case study](https://img.shields.io/badge/case_study-portfolio-blue)](https://prathamesh.yomite.in/portfolio/kestrel/)
+- [Essays and case studies](https://prathamesh.yomite.in/portfolio/) collect product teardowns, PRDs and build notes with acceptance criteria and honest status.
 
 ## How I work
 
@@ -32,26 +42,17 @@ Case studies live at [prathamesh.yomite.in/portfolio](https://prathamesh.yomite.
 
 Recent essays and notes are at [prathamesh.yomite.in/blog](https://prathamesh.yomite.in/blog/).
 
-## Stack I use
-
-`Rust` `Tauri` `Svelte` `TypeScript` `Astro` `React` `Tailwind CSS` `Python` `Node.js` `Playwright` `PostgreSQL`
-
-## Dashboard
-
-All widgets below are free with no sign up. They render from your public activity.
+## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sam-Bonfire&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Bonfire&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Sam-Bonfire&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7139&currStreakLabel=58A6FF" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Bonfire&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sam-Bonfire&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="Contribution snake" src="dist/github-snake.svg" />
+</picture>
 
 ## Work with me
 
