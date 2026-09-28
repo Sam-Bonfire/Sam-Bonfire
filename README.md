@@ -16,7 +16,7 @@ Engineer turned PM building AI-native products. MBA from IIM Lucknow. I write ab
 ## Stack I reach for
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,tauri,svelte,ts,react,astro,tailwind,py,nodejs,playwright,postgres&theme=dark" alt="Stack icons" />
+  <img src="https://skillicons.dev/icons?i=rust,tauri,svelte,ts,react,astro,tailwind,py,nodejs,postgres&theme=dark" alt="Stack icons" />
 </p>
 
 `Rust` `Tauri` `Svelte` `TypeScript` `Astro` `React` `Tailwind CSS` `Python` `Node.js` `Playwright` `PostgreSQL`
@@ -45,7 +45,7 @@ Recent essays and notes are at [prathamesh.yomite.in/blog](https://prathamesh.yo
 ## Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sam-Bonfire&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7139&currStreakLabel=58A6FF" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Sam-Bonfire&theme=github-dark&hide_border=true&ring=58A6FF&fire=FF7139&currStreakLabel=58A6FF" alt="GitHub streak" />
 </p>
 
 <picture>
