@@ -27,10 +27,10 @@ Most new builds start as `Rust` plus `Tauri` plus `Svelte`. Older builds use `As
 
 All builds are live and maintained. Each one links to a case study on my site.
 
-- [Calculators Hub](https://calculators.yomite.in) is a free PWA with 27 calculators for freelance pay, FIRE, housing and career moves. It needs no login and installs on mobile. [![Live](https://img.shields.io/badge/live-calculators.yomite.in-brightgreen)](https://calculators.yomite.in) [![Case study](https://img.shields.io/badge/case_study-portfolio-blue)](https://prathamesh.yomite.in/portfolio/calculators-hub/)
-- [StyleSwipe](https://styleswipe.yomite.in) is swipe based fashion discovery with a cross-retailer saved list. It ships with property tests and ten Playwright flows. [![Live](https://img.shields.io/badge/live-styleswipe.yomite.in-brightgreen)](https://styleswipe.yomite.in) [![Case study](https://img.shields.io/badge/case_study-portfolio-blue)](https://prathamesh.yomite.in/portfolio/styleswipe/)
-- [Kestrel](https://kestrel.yomite.in) is a self-hosted mail and calendar suite with a keyboard driven interface. It is in development at v0.3.3 and provider integrations run as sandboxed WASM plugins. [![Live](https://img.shields.io/badge/live-kestrel.yomite.in-brightgreen)](https://kestrel.yomite.in) [![Case study](https://img.shields.io/badge/case_study-portfolio-blue)](https://prathamesh.yomite.in/portfolio/kestrel/)
-- [Essays and case studies](https://prathamesh.yomite.in/portfolio/) collect product teardowns, PRDs and build notes with acceptance criteria and honest status.
+- <a href="https://calculators.yomite.in" target="_blank" rel="noopener noreferrer">Calculators Hub</a> is a free PWA with 27 calculators for freelance pay, FIRE, housing and career moves. It needs no login and installs on mobile. <a href="https://calculators.yomite.in" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/live-calculators.yomite.in-brightgreen" alt="Live" /></a> <a href="https://prathamesh.yomite.in/portfolio/calculators-hub/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/case_study-portfolio-blue" alt="Case study" /></a>
+- <a href="https://styleswipe.yomite.in" target="_blank" rel="noopener noreferrer">StyleSwipe</a> is swipe based fashion discovery with a cross-retailer saved list. It ships with property tests and ten Playwright flows. <a href="https://styleswipe.yomite.in" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/live-styleswipe.yomite.in-brightgreen" alt="Live" /></a> <a href="https://prathamesh.yomite.in/portfolio/styleswipe/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/case_study-portfolio-blue" alt="Case study" /></a>
+- <a href="https://kestrel.yomite.in" target="_blank" rel="noopener noreferrer">Kestrel</a> is a self-hosted mail and calendar suite with a keyboard driven interface. It is in development at v0.3.3 and provider integrations run as sandboxed WASM plugins. <a href="https://kestrel.yomite.in" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/live-kestrel.yomite.in-brightgreen" alt="Live" /></a> <a href="https://prathamesh.yomite.in/portfolio/kestrel/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/case_study-portfolio-blue" alt="Case study" /></a>
+- <a href="https://prathamesh.yomite.in/portfolio/" target="_blank" rel="noopener noreferrer">Essays and case studies</a> collect product teardowns, PRDs and build notes with acceptance criteria and honest status.
 
 ## How I work
 
@@ -40,7 +40,7 @@ All builds are live and maintained. Each one links to a case study on my site.
 - I report outcomes as rates and deltas against a baseline.
 - I close with a retrospective on what failed and what changes next.
 
-Recent essays and notes are at [prathamesh.yomite.in/blog](https://prathamesh.yomite.in/blog/).
+Recent essays and notes are at <a href="https://prathamesh.yomite.in/blog/" target="_blank" rel="noopener noreferrer">prathamesh.yomite.in/blog</a>.
 
 ## Activity
 
@@ -57,5 +57,5 @@ Recent essays and notes are at [prathamesh.yomite.in/blog](https://prathamesh.yo
 ## Work with me
 
 - I am open to PM roles and product advisory in AI platforms and 0-to-1 builds.
-- For CV reviews and mock interviews, book a session on [Topmate](https://topmate.io/pathak_prathamesh).
-- For teardowns, PRDs and side project notes, start at [Resources](https://prathamesh.yomite.in/resources/).
+- For CV reviews and mock interviews, book a session on <a href="https://topmate.io/pathak_prathamesh" target="_blank" rel="noopener noreferrer">Topmate</a>.
+- For teardowns, PRDs and side project notes, start at <a href="https://prathamesh.yomite.in/resources/" target="_blank" rel="noopener noreferrer">Resources</a>.
